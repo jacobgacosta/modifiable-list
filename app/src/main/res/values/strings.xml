@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"ModifiableList "</string>
+    <string name="menu_item_delete">Delete</string>
+    <string name="alert_dialog_message_some_items">¿Eliminar %1$d items seleccionados?</string>
+    <string name="alert_dialog_message_one_item">¿Eliminar item seleccionado?</string>
+    <string name="alert_dialog_positive">Aceptar</string>
+    <string name="alert_dialog_negative">Cancelar</string>
+</resources>
